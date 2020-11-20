@@ -12,6 +12,9 @@ The code is available for download-
 Original source of the video course
 https://www.youtube.com/watch?v=AmjiDC_JUt4
 
+remember * BEFORE TO START For Nodes Modules
+
+~~~ npm install ~~~
 
 ### Links
 
