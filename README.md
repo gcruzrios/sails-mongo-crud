@@ -1,6 +1,16 @@
-# articlebase
+# Sails JS Crud Mongo App
 
 a [Sails v1](https://sailsjs.com) application
+
+This is the course project "Build a Sails.js App by Traversy Media-"
+The original course was from 2017, it was updated to run with Sails JS 1.4.0 for November 2020
+
+The project does the 4 CRUD functions Create, read, update and delete.
+
+The code is available for download-
+
+Original source of the video course
+https://www.youtube.com/watch?v=AmjiDC_JUt4
 
 
 ### Links
